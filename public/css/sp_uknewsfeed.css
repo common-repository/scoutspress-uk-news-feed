@@ -1,0 +1,53 @@
+/*
+ * Copyright (c) 2017. ScoutsPress.com
+ *
+ *  $sp_green: #84A40B;
+ *  $sp_purple: #4D2177;
+ *
+ */
+
+.sp_uknf_container{
+    border: 1px solid #c5c5c5;
+    margin-top: 5px;
+}
+
+.sp_uknf_header{
+    font-weight: 700;
+    font-size: 1.1em;
+    padding: 10px 10px 5px 10px;
+    background-color: #4D2177;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.sp_uknf_header_image{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.sp_uknf_body{
+    padding: 10px;
+}
+
+.sp_uknf_post_title{
+    margin-bottom: 4px;
+    color: #84A40B;
+}
+
+.sp_uknf_text_small{
+    font-size: .70rem;
+}
+
+.sp_uknf_image{
+
+}
+
+.sp_uknf_text{
+
+}
+
+.sp_uknf_text a {
+    font-weight: 700;
+}
